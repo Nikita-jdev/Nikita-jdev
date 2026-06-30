@@ -12,7 +12,7 @@
 <div id="badges" align="center">
 <img src="https://komarev.com/ghpvc/?username=Nikita-jdev&style=flat-square&color=blue" alt=""/>
   <h1>
-  Привет! Меня зовут Никита и я Java разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+  Привет! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </h1>
 
 ### :hammer_and_wrench: Stack технологий что я использую : 
